@@ -205,22 +205,5 @@
         "u23": "Plain Text",
         "u24": "Vero sea et accusam justo dolor accusam lorem consetetur, dolores sit amet sit dolor clita kasd justo, diam accusam no sea ut tempor magna takimata, amet sit et diam dolor ipsum amet diam",
         "u25": "Read More"
-    },
-    "images": {
-        "img1": "img/about.jpg",
-        "img2": "img/product-1.png",
-        "img3": "img/product-2.png",
-        "img4": "img/product-3.png",
-        "img5": "img/product-4.png",
-        "img6": "img/product-2.png",
-        "img7": "img/team-1.jpg",
-        "img8": "img/team-2.jpg",
-        "img9": "img/team-3.jpg",
-        "img10": "img/team-4.jpg",
-        "img11": "img/team-5.jpg",
-        "img12": "img/testimonial-1.jpg",
-        "img13": "img/testimonial-2.jpg",
-        "img14": "img/blog-1.jpg",
-        "img15": "img/blog-2.jpg"
     }
 }
