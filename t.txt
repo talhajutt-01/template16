@@ -3,7 +3,7 @@
         "title": "Updated PET SHOP - Pet Shop Website Template"
     },
     "topbar": {
-        "h0": "Updated Our Office",
+        "h0": "Our Office",
         "h1": "123 Street, New York, USA",
         "h2": "Email Us",
         "h3": "info@example.com",
@@ -27,22 +27,22 @@
         "p4": "Blog Detail"
     },
     "hero": {
-        "ca0": "update Pet Shop",
+        "ca0": "Pet Shop",
         "ca1": "Make Your Pets Happy",
-        "ca2": "update Dolore tempor clita lorem rebum kasd eirmod dolore diam eos kasd. Kasd clita ea justo est sed kasd erat clita sea",
+        "ca2": "Dolore tempor clita lorem rebum kasd eirmod dolore diam eos kasd. Kasd clita ea justo est sed kasd erat clita sea",
         "ca3": "Read More",
         "ca4": "Play Video"
     },
     "about": {
-        "a0": "update About Us",
+        "a0": "About Us",
         "a1": "We Keep Your Pets Happy All Time",
         "a2": "Diam dolor diam ipsum tempor sit. Clita erat ipsum et lorem stet no labore lorem sit clita duo justo magna dolore",
         "a3": "Tempor erat elitr at rebum at at clita aliquyam consetetur. Diam dolor diam ipsum et, tempor voluptua sit consetetur sit. Aliquyam diam amet diam et eos sadipscing labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus clita duo justo et tempor consetetur takimata eirmod, dolores takimata consetetur invidunt magna dolores aliquyam dolores dolore. Amet erat amet et magna",
-        "a4": "update Tempor erat elitr at rebum at at clita aliquyam consetetur. Diam dolor diam ipsum et, tempor voluptua sit consetetur sit. Aliquyam diam amet diam et eos sadipscing labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus clita duo justo et tempor consetetur takimata eirmod, dolores takimata consetetur invidunt magna dolores aliquyam dolores dolore. Amet erat amet et magna"
+        "a4": "Tempor erat elitr at rebum at at clita aliquyam consetetur. Diam dolor diam ipsum et, tempor voluptua sit consetetur sit. Aliquyam diam amet diam et eos sadipscing labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus clita duo justo et tempor consetetur takimata eirmod, dolores takimata consetetur invidunt magna dolores aliquyam dolores dolore. Amet erat amet et magna"
     },
     "service": {
-        "s0": "update Services",
-        "s1": "update Our Excellent Pet Care Services",
+        "s0": "Services",
+        "s1": "Our Excellent Pet Care Services",
         "s2": "Pet Boarding",
         "s3": "Kasd dolor no lorem sit tempor at justo rebum rebum stet justo elitr dolor amet sit",
         "s4": "Read More",
@@ -63,8 +63,8 @@
         "s19": "Read More"
     },
     "product": {
-        "d0": "updated Products",
-        "d1": "updated Products For Your Best Friends",
+        "d0": "Products",
+        "d1": "Products For Your Best Friends",
         "d2": "Quality Pet Foods",
         "d3": "$199.00",
         "d4": "Quality Pet Foods",
@@ -84,7 +84,7 @@
         "o4": "Read More"
     },
     "price": {
-        "w1": "update Pricing Plan",
+        "w1": "Pricing Plan",
         "w2": "Competitive Pricing For Pet Services",
         "w3": "Basic",
         "w4": "The Best Choice",
@@ -109,7 +109,7 @@
         "w23": "Order Now"
     },
     "team": {
-        "t0": "update Team Members",
+        "t0": "Team Members",
         "t1": "Qualified Pets Care Professionals",
         "t2": "Full Name",
         "t3": "Designation",
@@ -131,7 +131,7 @@
         "te5": "Profession"
     },
     "blog": {
-        "b0": "update Latest Blog",
+        "b0": "Latest Blog",
         "b1": "Latest Articles From Our Blog Post",
         "b2": "Web Design",
         "b3": "01 Jan, 2045",
@@ -145,8 +145,8 @@
         "b11": "Read More"
     },
     "footer": {
-        "f0": "update Get In Touch",
-        "f1": "update No dolore ipsum accusam no lorem. Invidunt sed clita kasd clita et et dolor sed dolor",
+        "f0": "Get In Touch",
+        "f1": "No dolore ipsum accusam no lorem. Invidunt sed clita kasd clita et et dolor sed dolor",
         "f2": "123 Street, New York, USA",
         "f3": "info@example.com",
         "f4": "+012 345 67890",
@@ -165,22 +165,22 @@
         "f17": "Designed by HTML Codex"
     },
     "color": {
-        "topbar": "grey",
-        "nav": "red",
-        "hero": "red",
-        "about": "red",
-        "service": "red",
-        "product": "grey",
-        "offer": "red",
-        "price": "grey",
-        "team": "red",
-        "testimonial": "red",
-        "blog": "grey",
-        "footer": "red"
+        "topbar": ".",
+        "nav": ".",
+        "hero": ".",
+        "about": ".",
+        "service": ".",
+        "product": ".",
+        "offer": ".",
+        "price": ".",
+        "team": ".",
+        "testimonial": ".",
+        "blog": ".",
+        "footer": "."
     },
     "blogdetail": {
-        "u0": "update Diam dolor duo ipsum clita sed lorem tempor. Clita kasd diam justo diam lorem sed amet sed rebum eos.",
-        "u1": "update Sadipscing labore amet rebum est et justo gubergren. Et eirmod ipsum sit diam utmagna lorem. Nonumy vero labore lorem sanctus rebum et lorem magna kasd, stetamet magna accusam consetetur eirmod. Kasd accusam sit ipsum sadipscing et at atsanctus et. Ipsum sit gubergren dolores et, consetetur justo invidunt at et aliquyam ut et vero clita. Diam sea sea no sed dolores diam nonumy, gubergrensit stet no diam kasd vero.",
+        "u0": "Diam dolor duo ipsum clita sed lorem tempor. Clita kasd diam justo diam lorem sed amet sed rebum eos.",
+        "u1": "Sadipscing labore amet rebum est et justo gubergren. Et eirmod ipsum sit diam utmagna lorem. Nonumy vero labore lorem sanctus rebum et lorem magna kasd, stetamet magna accusam consetetur eirmod. Kasd accusam sit ipsum sadipscing et at atsanctus et. Ipsum sit gubergren dolores et, consetetur justo invidunt at et aliquyam ut et vero clita. Diam sea sea no sed dolores diam nonumy, gubergrensit stet no diam kasd vero.",
         "u2": "Voluptua est takimata stet invidunt sed rebum nonumy stet, clita aliquyam doloresvero stet consetetur elitr takimata rebum sanctus. Sit sed accusam stet sitnonumy kasd diam dolores, sanctus lorem kasd duo dolor dolor vero sit et. Labore ipsum duo sanctus amet eos et. Consetetur no sed et aliquyam ipsum justo et, clita lorem sit vero amet amet est dolor elitr, stet et no diam sit. Dolor eratjusto dolore sit invidunt.",
         "u3": "Diam dolor est labore duo invidunt ipsum clita et, sed et lorem voluptua tempor invidunt at est sanctus sanctus. Clita dolores sit kasd diam takimata justo diamlorem sed. Magna amet sed rebum eos. Clita no magna no dolor erat diam temporrebum consetetur, sanctus labore sed nonumy diam lorem amet eirmod. No at temporsea diam kasd, takimata ea nonumy elitr sadipscing gubergren erat. Gubergren atlorem invidunt sadipscing rebum sit amet ut ut, voluptua diam dolores atsadipscing stet. Clita dolor amet dolor ipsum vero ea ea eos.",
         "u4": "3 Comments",

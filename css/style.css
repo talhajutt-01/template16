@@ -328,19 +328,20 @@
 
 .team-carousel .owl-nav {
     position: absolute;
-    width: 50px;
-    height: 160px;
-    top: calc(50% - 80px);
-    right: 0;
+    width: 100%;
+    height: 46px;
+    top: calc(50% - 23px);
+    left: 0;
+    display: flex;
+    justify-content: space-between;
     z-index: 1;
 }
 
 .team-carousel .owl-nav .owl-prev,
 .team-carousel .owl-nav .owl-next {
     position: relative;
-    width: 50px;
-    height: 50px;
-    margin: 15px 0;
+    width: 46px;
+    height: 46px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -348,6 +349,12 @@
     background: var(--primary);
     font-size: 22px;
     transition: .5s;
+}
+.team-carousel .owl-nav .owl-prev{
+    margin-left: -45px;
+}
+.team-carousel .owl-nav .owl-next{
+    margin-right: -21px;
 }
 
 .team-carousel .owl-nav .owl-prev:hover,
